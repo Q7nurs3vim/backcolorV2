@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\backcolorV2\backcolorV2\bin\Debug\backcolorV2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\backcolorV2\backcolorV2\bin\Debug\backcolorV2.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\backcolorV2\backcolorV2\bin\Debug\backcolorV2.pdb
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\backcolorV2\backcolorV2\obj\Debug\backcolorV2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\backcolorV2\backcolorV2\obj\Debug\backcolorV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\backcolorV2\backcolorV2\obj\Debug\backcolorV2.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\backcolorV2\backcolorV2\obj\Debug\backcolorV2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\backcolorV2\backcolorV2\obj\Debug\backcolorV2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\backcolorV2\backcolorV2\obj\Debug\backcolorV2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\backcolorV2\backcolorV2\obj\Debug\backcolorV2.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\backcolorV2\backcolorV2\obj\Debug\backcolorV2.pdb
